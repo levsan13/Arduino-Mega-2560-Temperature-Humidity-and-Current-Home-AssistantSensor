@@ -31,7 +31,7 @@
 byte mac[] = {0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED}; 
 EthernetClient client;
 // Configuração MQTT
-const char* mqtt_server = "10.2.120.241";
+const char* mqtt_server ="BOKER MQTT HOST";
 int port = 1883;
 const char* mqtt_user = "mqtt_user";
 const char* mqtt_password = "mqtt_user";
